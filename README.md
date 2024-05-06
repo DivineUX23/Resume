@@ -38,6 +38,9 @@ DEVOPS INTERN July 2023- Sept 2023
 - Dockerized and deployed AI models on PaperSpace (a subsidiary of DigitalOcean), enabling seamless backend integration and streamlined implementation, which enhanced system performance and efficiency.
 
 
+---
+
+
 # Projects and Hackathons
 
 **Lablab.ai Hackathon –** [SPEECH TO SPEECH TRANSLATOR](https://github.com/DivineUX23/Audio-to-Audio-translation)
@@ -65,6 +68,10 @@ DEVOPS INTERN July 2023- Sept 2023
 
 - Designed and developed a RESTful API for a social media platform, leveraging AI to enhance user posts. Key features include user authentication, post management, AI-driven, post enhancement and others.
 - Utilized Express.js, TypeScript, MongoDB, Redis for caching and Socket.io for API real-time communications. Integrated Google’s Gemini pro for AI-powered post enhancement.
+
+
+---
+
 
 
 # Course work
