@@ -1,15 +1,23 @@
 **DIVINE IGBINOBA**
 
-**BACKEND DEVELOPER  
-✉** [**divineigbinoba23@gmail.com**](mailto:divineigbinoba23@gmail.com)**|  [**Divine Igbinoba**](https://www.linkedin.com/in/divine-igbinoba-330808184/)
+**BACKEND DEVELOPER**
 
-3 + Years of Web development experience with experience ranging from backend development to DevOps to Full-stack development and AI integrations.
+📧 divineigbinoba23@gmail.com | [LinkedIn: DivineUX23](https://linkedin.com/in/DivineUX23) | [GitHub: Divine Igbinoba](https://github.com/DivineIgbinoba)
 
+Over 3 years of web development experience with skills in backend development, DevOps, full-stack development, and AI integrations.
 
-# Skills
+---
 
-Python ▪️ JavaScript ▪️ TypeScript ▪️ C ▪️ HTML5 ▪️ CSS3 **|** FastAPI ▪️ Django ▪️ Flask ▪️ Express.js **|** Docker ▪️ Redis ▪️ MySQL ▪️ MongoDB **|** Git ▪️ GitHub ▪️ Gradio-Interface **|** Langchain ▪️ Whisper ▪️ ElevenLabs ▪️ AssemblyAI **|** Prompt Engineering ▪️ User Experience Design
+## Skills
 
+- **Programming Languages**: Python, JavaScript, TypeScript, C, HTML5, CSS3
+- **Frameworks & Libraries**: FastAPI, Django, Flask, Express.js
+- **Databases & Caching**: Redis, MySQL, MongoDB
+- **DevOps & Tools**: Docker, Git, GitHub
+- **AI & Machine Learning**: Gradio-Interface, Langchain, Whisper, ElevenLabs, AssemblyAI
+- **Other**: Prompt Engineering, User Experience Design
+
+---
 
 # Professional Experience
 
