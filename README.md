@@ -1,5 +1,3 @@
-```markdown
-+++md
 # Divine Igbinoba
 
 **Backend Developer**
@@ -81,6 +79,3 @@ Designed a RESTful API for a social media platform with AI-driven post enhanceme
 - Harvard CS50’s Introduction to Programming with Python
 - ALX Africa – C, Python, JavaScript, HTML, CSS, and SQL
 - User Experience Design by Interaction Design Foundation
-
-+++
-```
